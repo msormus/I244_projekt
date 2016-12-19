@@ -1,0 +1,48 @@
+body {
+    background-image: url(http://www.affairscloud.com/wp-content/uploads/2014/09/website-background.jpg);
+    background-size: 100%;
+}
+h1 {
+    color: #483D8B;
+    font-family: Verdana, Arial, Sans-serif;
+    font-size: 32px;
+    padding: 10px 10px;
+}
+.menyy {
+	font-family: Verdana, Arial, Sans-serif;
+    font-size: 18px;
+}
+.tabel td {
+    border-bottom: 1px;
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 2px;
+}
+h2 {
+    width: 100px;
+    height: 42px;
+}
+h2 {
+    width: 1px;
+    height: 4px;
+}
+.right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+}
+p {
+	font-family: Verdana, Arial, Sans-serif;
+    font-size: 20px;
+    width: 600px;
+    text-align: justify;
+}
+button {
+    background-color: #FAF0E6;
+    font-size: 16px;
+    color: bleck;
+    padding: 10px 10px;
+    margin: 8px 0;
+    border-style: outset;
+    cursor: pointer;
+}
